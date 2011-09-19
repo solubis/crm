@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<id>22BD5E1F-AA65-E011-9241-00155D01180E</id>
+	<name>Performed</name>
+</RECORD>
+<RECORD>
+	<id>40A3B6FF-AA65-E011-9241-00155D01180E</id>
+	<name>Planned</name>
+</RECORD>
+<RECORD>
+	<id>4B622174-AB65-E011-9241-00155D01180E</id>
+	<name>Confirmed</name>
+</RECORD>
+<RECORD>
+	<id>7E5656EA-AB65-E011-9241-00155D01180E</id>
+	<name>Denied</name>
+</RECORD>
+</RECORDS>

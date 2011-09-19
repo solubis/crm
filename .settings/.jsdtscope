@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="data/|models/|controllers/|views/" kind="src" path="app"/>
+	<classpathentry kind="src" path="app/controllers"/>
+	<classpathentry kind="src" path="app/data"/>
+	<classpathentry kind="src" path="app/models"/>
+	<classpathentry kind="src" path="app/views"/>
+	<classpathentry kind="src" path="archive"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.USER_LIBRARY/Sencha Touch"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

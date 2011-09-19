@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<name>Sales</name>
+	<id>66C31387-954F-4732-8BAD-5A7C9E35BD00</id>
+</RECORD>
+<RECORD>
+	<name>Promotional</name>
+	<id>C0373272-6E39-4274-AAC8-B7A678B7B7C5</id>
+</RECORD>
+<RECORD>
+	<name>Detail</name>
+	<id>380AE15B-824D-4441-8A9A-EEE0A2FBF942</id>
+</RECORD>
+<RECORD>
+	<name>Merchandising</name>
+	<id>5B2BFE2E-FBD1-4C16-97BC-713C865A4307</id>
+</RECORD>
+<RECORD>
+	<name>Technical/ADEs</name>
+	<id>82D7DC13-EFF4-4838-AFF7-3C867E75D1C5</id>
+</RECORD>
+<RECORD>
+	<name>Training</name>
+	<id>4D08A45E-59B5-4878-AD78-2B220ABC101B</id>
+</RECORD>
+<RECORD>
+	<name>Product promotion</name>
+	<id>6D9B9D4C-67A3-4E28-A9FC-C0F95984EFB8</id>
+</RECORD>
+<RECORD>
+	<name>Problem solving</name>
+	<id>55D12141-FC5C-4F71-AA29-0973294B7078</id>
+</RECORD>
+<RECORD>
+	<name>Fact finding</name>
+	<id>0A2F7AAC-64F9-43DC-A523-0C320BE5148F</id>
+</RECORD>
+<RECORD>
+	<name>Relationship</name>
+	<id>EF8760BB-C198-449B-8D0E-D6CCE3CFAE9E</id>
+</RECORD>
+<RECORD>
+	<name>Other</name>
+	<id>D2246AE2-CF64-4DFD-BFC3-F0D755B1D628</id>
+</RECORD>
+<RECORD>
+	<name>Other</name>
+	<id>3E87ADE9-0E81-E011-9211-00155D01180E</id>
+</RECORD>
+</RECORDS>

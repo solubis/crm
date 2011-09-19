@@ -1,0 +1,13 @@
+ErrorDocument 404 "Error, but .htaccess works"
+AddType text/cache-manifest .manifest
+
+<FilesMatch "\.(ico|jpg|jpeg|png|gif|js|css|html|manifest)$">
+  ExpiresDefault A2419200
+  Header append Cache-Control "public"
+</FilesMatch>
+
+<Files cache.manifest>
+	ExpiresActive On
+	ExpiresDefault "access"
+</Files>
+

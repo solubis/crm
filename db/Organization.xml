@@ -1,0 +1,565 @@
+<?xml version="1.0"?>
+<RECORDS>
+<RECORD>
+	<name>Aorangi Vet Services Ltd - Fairlie</name>
+	<id>61CAABCA-A0A4-4B39-8E12-2C0AFA51EC3C</id>
+	<group>BUSINESS</group>
+	<city>FAIRLIE</city>
+	<postalCode>8771</postalCode>
+	<address>Allandale Road</address>
+	<phone>(03) 685 8407</phone>
+	<email>mark.c@aorangivet.co.nz</email>
+	<latitude>-44.0975873</latitude>
+	<longitude>170.8303402</longitude>
+	<type>Veterinary</type>
+	<status>Existing</status>
+	<code>000322</code>
+	<rating>K</rating>
+	<importance>C</importance>
+	<penetration>C</penetration>
+</RECORD>
+<RECORD>
+	<name>Aorangi Vet Services Ltd - Geraldine</name>
+	<id>AEC3F399-330F-4971-A9ED-EEDCD43264D3</id>
+	<group>BUSINESS</group>
+	<city>GERALDINE</city>
+	<postalCode>8751</postalCode>
+	<address>27 Wilson Street</address>
+	<phone>(03) 693 1163</phone>
+	<mobile>(027) 446 9118</mobile>
+	<email>mark.c@aorangivet.co.nz</email>
+	<latitude>-44.0920726</latitude>
+	<longitude>171.2425042</longitude>
+	<type>Veterinary</type>
+	<status>Existing</status>
+	<code>000333</code>
+	<rating> </rating>
+	<importance> K</importance>
+	<penetration>C</penetration>
+</RECORD>
+<RECORD>
+	<name>ATS Ashburton </name>
+	<id>285980EA-C5A9-DE11-ABD8-444553544200</id>
+	<group>BUSINESS</group>
+	<city>ASHBURTON</city>
+	<postalCode>7700</postalCode>
+	<address>97 Burnett Street </address>
+	<phone>(03) 307 5100</phone>
+	<latitude>-43.9030751</latitude>
+	<longitude>171.7462011</longitude>
+	<type>Reseller</type>
+	<status>Fort Dodge Organisations</status>
+	<code>013612</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>ATS Rakaia</name>
+	<id>43617DF0-C5A9-DE11-ABD8-444553544200</id>
+	<group>BUSINESS</group>
+	<city>RAKAIA</city>
+	<postalCode>7710</postalCode>
+	<address>Elizabeth Ave </address>
+	<latitude>-43.755752</latitude>
+	<longitude>172.0234719</longitude>
+	<type>Reseller</type>
+	<status>Fort Dodge Organisations</status>
+	<code>013614</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>Ayrdale</name>
+	<id>DFAE32B1-E73A-DE11-9713-444553544200</id>
+	<group>FARM</group>
+	<city>SPRINGFIELD</city>
+	<postalCode>7681</postalCode>
+	<address>Main Rd</address>
+	<phone>(03) 318 4836</phone>
+	<latitude>-43.3371994</latitude>
+	<longitude>171.9269209</longitude>
+	<type>Sheep &amp; Beef Farm</type>
+	<status>Existing</status>
+	<code>013105</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>Bayfields</name>
+	<id>C52588A8-C6FB-4A27-9040-D014E1A3BAD1</id>
+	<group>FARM</group>
+	<city>METHVEN</city>
+	<postalCode>8172</postalCode>
+	<address>Lake Coleridge Rd</address>
+	<phone>(03) 318 6599</phone>
+	<mobile>021 538516</mobile>
+	<email>richard.alida@clear.net.nz</email>
+	<latitude>-43.6337192</latitude>
+	<longitude>171.6469521</longitude>
+	<type>Sheep &amp; Beef Farm</type>
+	<status>Existing</status>
+	<code>004571</code>
+	<rating>A</rating>
+	<importance>A</importance>
+	<penetration>B</penetration>
+</RECORD>
+<RECORD>
+	<name>Canterbury Vets Methven Ltd</name>
+	<id>B38BB2FC-9703-4BB1-8C79-3656346345E8</id>
+	<group>BUSINESS</group>
+	<city>METHVEN</city>
+	<postalCode>7730</postalCode>
+	<address>Main Road</address>
+	<phone>(03) 302 8125</phone>
+	<latitude>-43.633512</latitude>
+	<longitude>171.6469579</longitude>
+	<type>Veterinary</type>
+	<status>Existing</status>
+	<code>000397</code>
+	<rating> </rating>
+	<importance> K</importance>
+	<penetration>C</penetration>
+</RECORD>
+<RECORD>
+	<name>Cross Brothers Pemberley Farm</name>
+	<id>52473A18-197E-4568-9A58-D85599ABE5FC</id>
+	<group>FARM</group>
+	<city>CHRISTCHURCH</city>
+	<postalCode>7671</postalCode>
+	<address>Bealey Rd</address>
+	<phone>(03) 318 1469</phone>
+	<mobile>(021) 414469</mobile>
+	<email>pete.jane.pemberley@xtra.co.nz</email>
+	<latitude>-43.5208146</latitude>
+	<longitude>172.6381142</longitude>
+	<type>Sheep &amp; Beef Farm</type>
+	<status>Existing</status>
+	<code>005929</code>
+	<rating>B</rating>
+	<importance>B</importance>
+	<penetration>D</penetration>
+</RECORD>
+<RECORD>
+	<name>CRT FarmCentre Ashburton</name>
+	<id>EC7B8B2D-BC15-DF11-A45E-444553544200</id>
+	<group>BUSINESS</group>
+	<city>ASHBURTON</city>
+	<postalCode>7700</postalCode>
+	<address>418 West Street</address>
+	<latitude>-43.8951569</latitude>
+	<longitude>171.7608188</longitude>
+	<type>Reseller</type>
+	<status>Fort Dodge Organisations</status>
+	<code>014185</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>CRT FarmCentre Temuka</name>
+	<id>8814AC42-BB15-DF11-A45E-444553544200</id>
+	<group>BUSINESS</group>
+	<city>TEMUKA</city>
+	<postalCode>7920</postalCode>
+	<address>41 King Street</address>
+	<latitude>-44.2476246</latitude>
+	<longitude>171.2782405</longitude>
+	<type>Reseller</type>
+	<status>Fort Dodge Organisations</status>
+	<code>014180</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>CRT FarmCentre Timaru</name>
+	<id>67B8626D-BB15-DF11-A45E-444553544200</id>
+	<group>BUSINESS</group>
+	<city>TIMARU</city>
+	<postalCode>7910</postalCode>
+	<address>32 North Street</address>
+	<latitude>-44.4005826</latitude>
+	<longitude>171.2527104</longitude>
+	<type>Reseller</type>
+	<status>Fort Dodge Organisations</status>
+	<code>014181</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>Darfield Veterinary Centre</name>
+	<id>BB1E6748-9057-4B8D-B117-B1935E7B034E</id>
+	<group>BUSINESS</group>
+	<city>DARFIELD</city>
+	<postalCode>7510</postalCode>
+	<address>48 South Terrace</address>
+	<phone>(03) 318 8611</phone>
+	<email>admin@darfieldvet.co.nz</email>
+	<latitude>-43.4894471</latitude>
+	<longitude>172.1107265</longitude>
+	<type>Veterinary</type>
+	<status>Existing</status>
+	<code>002721</code>
+	<rating> </rating>
+	<importance> K</importance>
+	<penetration>A</penetration>
+</RECORD>
+<RECORD>
+	<name>Darra Downs Ltd</name>
+	<id>BB803EFC-EC0E-4857-A86F-EEC68295AF26</id>
+	<group>FARM</group>
+	<city>RAKAIA</city>
+	<postalCode></postalCode>
+	<address>Mt Hutt</address>
+	<phone>(03) 349 9606</phone>
+	<mobile>(027) 220 3831 Grant</mobile>
+	<latitude>-43.5296014</latitude>
+	<longitude>171.6168628</longitude>
+	<type>Beef Farm</type>
+	<status>Previous</status>
+	<code>006241</code>
+	<rating>B</rating>
+	<importance>B</importance>
+	<penetration>D</penetration>
+</RECORD>
+<RECORD>
+	<name>Glenallan Pastures 1999</name>
+	<id>B3584F4A-0AE3-DD11-91D0-444553544200</id>
+	<group>FARM</group>
+	<city>HORORATA</city>
+	<postalCode>7544</postalCode>
+	<address>75 Scotts rd</address>
+	<phone>(03)318-0829</phone>
+	<latitude>-43.515795</latitude>
+	<longitude>171.9798142</longitude>
+	<type>Sheep &amp; Beef Farm</type>
+	<status>Existing</status>
+	<code>009161</code>
+	<rating></rating>
+	<importance>K</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>Goldstein Rural Ltd</name>
+	<id>FF5C73F5-D8CD-4C28-8D8A-96FBD4F347F0</id>
+	<group>FARM</group>
+	<city>GERALDINE</city>
+	<postalCode>7992</postalCode>
+	<address>360 Arundal Rangitata Road</address>
+	<phone>(03) 696 3505</phone>
+	<mobile>027 2448644</mobile>
+	<email>bruce.kim@farmside.co.nz</email>
+	<latitude>-44.0509712</latitude>
+	<longitude>171.2594032</longitude>
+	<type>Beef Farm</type>
+	<status>Existing</status>
+	<code>003421</code>
+	<rating>A</rating>
+	<importance>A</importance>
+	<penetration>A</penetration>
+</RECORD>
+<RECORD>
+	<name>Highside Farm</name>
+	<id>7B4C92E7-F918-437A-859B-F6001F1B8BD8</id>
+	<group>FARM</group>
+	<city>ASHBURTON</city>
+	<postalCode></postalCode>
+	<address>Waddells</address>
+	<phone>(03) 303 7900</phone>
+	<mobile>(027) 203 0666</mobile>
+	<email>craig.copland@xtra.co.nz</email>
+	<latitude>-43.8080749</latitude>
+	<longitude>171.9617442</longitude>
+	<type>Dairy farm</type>
+	<status>Previous</status>
+	<code>005933</code>
+	<rating>B</rating>
+	<importance>B</importance>
+	<penetration>D</penetration>
+</RECORD>
+<RECORD>
+	<name>Hudson, Kelly</name>
+	<id>AB959BBA-047B-47F6-BAA6-39933956FF42</id>
+	<group>FARM</group>
+	<city>TIMARU</city>
+	<postalCode></postalCode>
+	<address>Fairview Rd</address>
+	<mobile>(027) 434 0140 Kelly (Father)</mobile>
+	<latitude>-44.4067104</latitude>
+	<longitude>171.1389092</longitude>
+	<type>Sheep, Beef, Stud Bull, Deer, Heifer &amp; Dairy Farm</type>
+	<status>Existing</status>
+	<code>007258</code>
+	<rating>B</rating>
+	<importance>B</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>Paddock Vets</name>
+	<id>ED541901-DFDD-DE11-ADFF-444553544200</id>
+	<group>BUSINESS</group>
+	<city>METHVEN</city>
+	<postalCode>7730</postalCode>
+	<address>2 Chapman St</address>
+	<phone>(03) 302 8866</phone>
+	<email>paddockvets@hotmail.com</email>
+	<latitude>-43.6332093</latitude>
+	<longitude>171.6451344</longitude>
+	<type>Veterinary</type>
+	<status>Existing</status>
+	<code>014137</code>
+	<rating> </rating>
+	<importance> K</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>PGG Wrightson Fairlie</name>
+	<id>1D858B98-C5A9-DE11-ABD8-444553544200</id>
+	<group>BUSINESS</group>
+	<city>FAIRLIE</city>
+	<postalCode>7925</postalCode>
+	<address>70 Main Street</address>
+	<phone>(03) 685 9090</phone>
+	<latitude>-44.0984883</latitude>
+	<longitude>170.8296813</longitude>
+	<type>Reseller</type>
+	<status>Fort Dodge Organisations</status>
+	<code>013631</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>PGG Wrightson Geraldine</name>
+	<id>25858B98-C5A9-DE11-ABD8-444553544200</id>
+	<group>BUSINESS</group>
+	<city>GERALDINE</city>
+	<postalCode>7956</postalCode>
+	<address>PO Box 17</address>
+	<latitude>-43.5144413</latitude>
+	<longitude>172.647476</longitude>
+	<type>Reseller</type>
+	<status>Fort Dodge Organisations</status>
+	<code>013603</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>PGG Wrightson Temuka</name>
+	<id>1F868B98-C5A9-DE11-ABD8-444553544200</id>
+	<group>BUSINESS</group>
+	<city>TEMUKA</city>
+	<postalCode>7920</postalCode>
+	<address>3 Domain Avenue</address>
+	<latitude>-44.2455254</latitude>
+	<longitude>171.2771989</longitude>
+	<type>Reseller</type>
+	<status>Fort Dodge Organisations</status>
+	<code>013565</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>PGG Wrightson Timaru</name>
+	<id>25868B98-C5A9-DE11-ABD8-444553544200</id>
+	<group>BUSINESS</group>
+	<city>TIMARU</city>
+	<postalCode>7910</postalCode>
+	<address>Evans Street</address>
+	<phone>(03) 687 7330</phone>
+	<latitude>-44.3793814</latitude>
+	<longitude>171.2415853</longitude>
+	<type>Reseller</type>
+	<status>Fort Dodge Organisations</status>
+	<code>013638</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>Quartz Hill</name>
+	<id>CE950AB5-1CE8-42F4-BBC7-688428D2F98E</id>
+	<group>FARM</group>
+	<city>DARFIELD</city>
+	<postalCode>7572</postalCode>
+	<address>High Peak Rd</address>
+	<phone>(03) 318 6852 Rhys</phone>
+	<mobile>027 5660147</mobile>
+	<email>paulkcowie@yahoo.co.nz</email>
+	<latitude>-43.489806</latitude>
+	<longitude>172.1114667</longitude>
+	<type>Sheep &amp; Beef Farm</type>
+	<status>Existing</status>
+	<code>003377</code>
+	<rating>A</rating>
+	<importance>A</importance>
+	<penetration>A</penetration>
+</RECORD>
+<RECORD>
+	<name>RD1 - Rakaia</name>
+	<id>A49FEA81-9DB1-DE11-ABD8-0022FA88BDFA</id>
+	<group>BUSINESS</group>
+	<city>RAKAIA</city>
+	<postalCode>7710</postalCode>
+	<address>56 South Town Belt</address>
+	<phone>03 303 5000</phone>
+	<mobile>027 207 4025</mobile>
+	<email>rakaia@rd1.com</email>
+	<latitude>-43.7589877</latitude>
+	<longitude>172.0205436</longitude>
+	<type>Reseller</type>
+	<status>Fort Dodge Organisations</status>
+	<code>013704</code>
+	<rating>D</rating>
+	<importance>D</importance>
+	<penetration></penetration>
+</RECORD>
+<RECORD>
+	<name>Riverside Veterinary Services Ltd - Ashburton</name>
+	<id>594AC667-A115-4665-95A0-2A7499B3A130</id>
+	<group>BUSINESS</group>
+	<city>ASHBURTON</city>
+	<postalCode>7700</postalCode>
+	<address>1 Smallbone Drive</address>
+	<phone>(03) 308 2321</phone>
+	<email>rachel.summerfield@vetent.co.nz</email>
+	<latitude>-43.9007078</latitude>
+	<longitude>171.7385395</longitude>
+	<type>Veterinary</type>
+	<status>Existing</status>
+	<code>000315</code>
+	<rating> </rating>
+	<importance> K</importance>
+	<penetration>C</penetration>
+</RECORD>
+<RECORD>
+	<name>Selwyn Rakaia Vet Services Ltd</name>
+	<id>C07869E1-31C6-4C7E-999F-ED65B70150F0</id>
+	<group>BUSINESS</group>
+	<city>DUNSANDEL</city>
+	<postalCode>7682</postalCode>
+	<address>Main South Road</address>
+	<phone>(03) 325 4444</phone>
+	<email>srvs@xtra.co.nz</email>
+	<latitude>-43.6691483</latitude>
+	<longitude>172.1702451</longitude>
+	<type>Veterinary</type>
+	<status>Existing</status>
+	<code>000317</code>
+	<rating> </rating>
+	<importance> K</importance>
+	<penetration>C</penetration>
+</RECORD>
+<RECORD>
+	<name>Turley Farm</name>
+	<id>47CC8DAF-F954-49BB-9643-81E7A158BF7E</id>
+	<group>FARM</group>
+	<city>ASHBURTON</city>
+	<postalCode>8300</postalCode>
+	<address>Klondyke</address>
+	<phone>03 3036114</phone>
+	<mobile>021 342700</mobile>
+	<latitude>-43.7883154</latitude>
+	<longitude>171.2576899</longitude>
+	<type>Sheep &amp; Beef Farm</type>
+	<status>Existing</status>
+	<code>002639</code>
+	<rating>A</rating>
+	<importance>A</importance>
+	<penetration>A</penetration>
+</RECORD>
+<RECORD>
+	<name>VetLife Ashburton</name>
+	<id>BA56856F-D841-4E86-82D1-6FFE4A9864A3</id>
+	<group>BUSINESS</group>
+	<city>ASHBURTON</city>
+	<postalCode>7700</postalCode>
+	<address>Cnr East St &amp; Smithfield Rd</address>
+	<phone>(03) 308 5095</phone>
+	<email>ashburton@vetlife.co.nz</email>
+	<latitude>-43.9083813</latitude>
+	<longitude>171.7485672</longitude>
+	<type>Veterinary</type>
+	<status>Existing - Platinum Partner</status>
+	<code>000301</code>
+	<rating> </rating>
+	<importance>A</importance>
+	<penetration>C</penetration>
+</RECORD>
+<RECORD>
+	<name>VetLife Dunsandel</name>
+	<id>AD5BB839-B87C-4361-8C9B-68273A22E6B8</id>
+	<group>BUSINESS</group>
+	<city>LEESTON</city>
+	<postalCode>7682</postalCode>
+	<address>4 Hororata Dunsandel Road</address>
+	<phone>(03) 325 4155</phone>
+	<email>dunsandel@vetlife.co.nz</email>
+	<latitude>-43.6596256</latitude>
+	<longitude>172.1944839</longitude>
+	<type>Veterinary</type>
+	<status>Existing</status>
+	<code>002945</code>
+	<rating>A</rating>
+	<importance>A</importance>
+	<penetration>A</penetration>
+</RECORD>
+<RECORD>
+	<name>VetLife Fairlie</name>
+	<id>C1F6B15C-B035-4394-960A-B9E335C388B4</id>
+	<group>BUSINESS</group>
+	<city>FAIRLIE</city>
+	<postalCode>7925</postalCode>
+	<address>31 Main Street</address>
+	<phone>(03) 685 8884</phone>
+	<latitude>-44.1015719</latitude>
+	<longitude>170.8291913</longitude>
+	<type>Veterinary</type>
+	<status>Existing</status>
+	<code>004050</code>
+	<rating>A</rating>
+	<importance>A</importance>
+	<penetration>B</penetration>
+</RECORD>
+<RECORD>
+	<name>VetLife Pleasant Point</name>
+	<id>5C49505B-1CDD-4AD0-A2B5-913F879E3420</id>
+	<group>BUSINESS</group>
+	<city>PLEASANT POINT</city>
+	<postalCode>7903</postalCode>
+	<address>83 Main Street</address>
+	<phone>(03) 614 7777</phone>
+	<latitude>-44.260391</latitude>
+	<longitude>171.1301936</longitude>
+	<type>Veterinary</type>
+	<status>Existing</status>
+	<code>004229</code>
+	<rating> </rating>
+	<importance>C</importance>
+	<penetration>B</penetration>
+</RECORD>
+<RECORD>
+	<name>VetLife Temuka</name>
+	<id>7382A166-0790-4807-A9FC-9C3A92FC5213</id>
+	<group>BUSINESS</group>
+	<city>TEMUKA</city>
+	<postalCode>8752</postalCode>
+	<address>35 King Street</address>
+	<phone>(03) 615 7352</phone>
+	<email>lesley@vetlife.co.nz</email>
+	<latitude>-44.2480471</latitude>
+	<longitude>171.2779042</longitude>
+	<type>Veterinary</type>
+	<status>Existing - Platinum Partner</status>
+	<code>000318</code>
+	<rating> </rating>
+	<importance>B</importance>
+	<penetration>C</penetration>
+</RECORD>
+</RECORDS>
