@@ -32,17 +32,6 @@ Ext.regApplication({
     },
 
     mainLaunch: function() {
-	
-		// Sencha Error - selecting an item on list throws TypeError when list is not shown yet
-       /* Ext.override(Ext.DataView, {
-            onItemSelect: function(record) {
-                var node = this.getNode(record);
-                var node_el = Ext.get(node)
-                if (node_el) {
-                    node_el.addCls(this.selectedItemCls);
-                }
-            }
-        });*/
 
         Ext.util.Format.defaultDateFormat = "F d, Y, h:i a";
 
@@ -58,7 +47,11 @@ Ext.regApplication({
         this.stores.loadStores(function() {
             this.viewport = new app.views.Viewport();
         });
-    }
+    },
+
+	log: function(message){
+		if (this.logging) console.log(message);
+	}
 });
 
 Ext.ns('app.utils');

@@ -91,6 +91,9 @@ app.controllers.Controller = Ext.extend(Ext.Controller, {
         },
         'Activity');
 
+        if (newRecord.products()) newRecord.products().removeAll();
+        if (newRecord.customers()) newRecord.customers().removeAll();
+        if (newRecord.comments()) newRecord.comments().removeAll();
 
         if (!this.view.activityForm) {
             this.view.activityForm = new app.views.ActivityForm();
@@ -101,11 +104,11 @@ app.controllers.Controller = Ext.extend(Ext.Controller, {
     },
 
     showActivityInfo: function(options) {
-	
-		console.log('Controller showActivityInfo with record : ' + options.record);
+
+        app.log('Controller showActivityInfo with record : ' + options.record);
 
         if (options.record) {
-	
+
             this.view.updateData(options.record, false);
 
             if (Ext.is.Phone) {
@@ -153,15 +156,17 @@ app.controllers.Controller = Ext.extend(Ext.Controller, {
 
     hideMap: function(options) {
         this.showPreviousItem(this.view.organizationForm, 'flip', 'right');
+        this.view.organizationMap.destroy();
+        this.view.organizationMap = null;
     },
 
     showMap: function(options) {
 
-        if (!this.view.organizationMap) {
-            this.view.organizationMap = new app.views.OrganizationMap();
-        }
+        if (this.view.organizationMap) this.view.organizationMap.destroy();
 
-        this.view.organizationMap.record = this.view.organizationForm.getRecord();
+        this.view.organizationMap = new app.views.OrganizationMap();
+
+        this.view.organizationMap.record = options.record;
 
         this.showItem(this.view.organizationMap, 'flip', 'left');
     }

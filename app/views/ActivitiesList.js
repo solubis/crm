@@ -152,7 +152,7 @@ app.views.ActivitiesList = Ext.extend(Ext.Panel, {
 
     updateData: function(record, filter) {
 
-        console.log('ActivitiesList updateData with record : ' + record);
+        app.log('ActivitiesList updateData with record : ' + record);
 
         if (filter) {
             this.filterData();

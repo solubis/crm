@@ -226,6 +226,7 @@ app.views.ActivityInfo = Ext.extend(Ext.Panel, {
     },
 
     updateWithRecord: function(record) {
+		app.log('ActivityInfo update with record : ' + record);
 
         if (record) {
 

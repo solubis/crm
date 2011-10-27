@@ -102,6 +102,8 @@ app.views.OrganizationsList = Ext.extend(Ext.Panel, {
 
     updateData: function() {
         this.down('.list').bindStore(app.stores.Organization);
+        this.down('.list').store.clearFilter();
+
     }
 
 });

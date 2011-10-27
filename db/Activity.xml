@@ -1,453 +1,433 @@
 <?xml version="1.0"?>
 <RECORDS>
-	<RECORD>
-		<id>B0FC40D5-B36F-E011-B6D4-444553544201</id>
-		<endDate>2011-08-30 00:00:00</endDate>
-		<startDate>2011-08-30 00:00:00</startDate>
-		<subject>VetLife Dunsandel</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>AD5BB839-B87C-4361-8C9B-68273A22E6B8</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>B0FC40D5-B36F-E011-B6D4-444553544202</id>
-		<endDate>2011-10-02 00:00:00</endDate>
-		<startDate>2011-10-02 00:00:00</startDate>
-		<subject>VetLife Dunsandel</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>AD5BB839-B87C-4361-8C9B-68273A22E6B8</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>B0FC40D5-B36F-E011-B6D4-444553544200</id>
-		<endDate>2011-09-02 00:00:00</endDate>
-		<startDate>2011-09-02 00:00:00</startDate>
-		<subject>VetLife Dunsandel</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>AD5BB839-B87C-4361-8C9B-68273A22E6B8</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>3E71204F-B46F-E011-B6D4-444553544200</id>
-		<endDate>2011-09-02 00:00:00</endDate>
-		<startDate>2011-09-02 00:00:00</startDate>
-		<subject>Riverside Veterinary Services Ltd - Ashburton</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>594AC667-A115-4665-95A0-2A7499B3A130</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>91398569-B46F-E011-B6D4-444553544200</id>
-		<endDate>2011-09-02 00:00:00</endDate>
-		<startDate>2011-09-02 00:00:00</startDate>
-		<subject>Darfield Veterinary Centre</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>BB1E6748-9057-4B8D-B117-B1935E7B034E</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>6CBAA23D-0C75-E011-B6D4-444553544200</id>
-		<endDate>2011-09-13 00:00:00</endDate>
-		<startDate>2011-09-13 00:00:00</startDate>
-		<subject>Riverside Veterinary Services Ltd - Ashburton</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>594AC667-A115-4665-95A0-2A7499B3A130</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>001A8F53-0C75-E011-B6D4-444553544200</id>
-		<endDate>2011-09-13 00:00:00</endDate>
-		<startDate>2011-09-13 00:00:00</startDate>
-		<subject>Riverside Veterinary Services Ltd - Ashburton</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>594AC667-A115-4665-95A0-2A7499B3A130</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>34314E0E-8A77-E011-B6D6-001E101FE347</id>
-		<endDate>2011-09-17 00:00:00</endDate>
-		<startDate>2011-09-17 00:00:00</startDate>
-		<subject>VetLife Fairlie</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>C1F6B15C-B035-4394-960A-B9E335C388B4</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>159F0423-8A77-E011-B6D6-001E101FE347</id>
-		<endDate>2011-09-17 00:00:00</endDate>
-		<startDate>2011-09-17 00:00:00</startDate>
-		<subject>VetLife Pleasant Point</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>5C49505B-1CDD-4AD0-A2B5-913F879E3420</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>0B53A02E-407C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-21 00:00:00</endDate>
-		<startDate>2011-09-21 00:00:00</startDate>
-		<subject>Riverside Veterinary Services Ltd - Ashburton</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>594AC667-A115-4665-95A0-2A7499B3A130</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>4826C44E-407C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-21 00:00:00</endDate>
-		<startDate>2011-09-21 00:00:00</startDate>
-		<subject>Selwyn Rakaia Vet Services Ltd</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>C07869E1-31C6-4C7E-999F-ED65B70150F0</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>C532CCE8-407C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-17 00:00:00</endDate>
-		<startDate>2011-09-17 00:00:00</startDate>
-		<subject>VetLife Temuka</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>7382A166-0790-4807-A9FC-9C3A92FC5213</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>F0622AEC-437C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-22 00:00:00</endDate>
-		<startDate>2011-09-22 00:00:00</startDate>
-		<subject>VetLife Temuka</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>7382A166-0790-4807-A9FC-9C3A92FC5213</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>638A2F19-447C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-08 00:00:00</endDate>
-		<startDate>2011-09-08 00:00:00</startDate>
-		<subject>Aorangi Vet Services Ltd - Fairlie</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>61CAABCA-A0A4-4B39-8E12-2C0AFA51EC3C</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>4F04E33B-447C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-08 00:00:00</endDate>
-		<startDate>2011-09-08 00:00:00</startDate>
-		<subject>Aorangi Vet Services Ltd - Geraldine</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>AEC3F399-330F-4971-A9ED-EEDCD43264D3</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>2B39C980-447C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-09 00:00:00</endDate>
-		<startDate>2011-09-09 00:00:00</startDate>
-		<subject>Paddock Vets</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>ED541901-DFDD-DE11-ADFF-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>EE55B5A9-447C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-09 00:00:00</endDate>
-		<startDate>2011-09-09 00:00:00</startDate>
-		<subject>Darfield Veterinary Centre</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>BB1E6748-9057-4B8D-B117-B1935E7B034E</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>ED0D7AB6-447C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-09 00:00:00</endDate>
-		<startDate>2011-09-09 00:00:00</startDate>
-		<subject>Canterbury Vets Methven Ltd</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>B38BB2FC-9703-4BB1-8C79-3656346345E8</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>5F93E1ED-447C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-09 00:00:00</endDate>
-		<startDate>2011-09-09 00:00:00</startDate>
-		<subject>VetLife Dunsandel</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>AD5BB839-B87C-4361-8C9B-68273A22E6B8</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>32FADE18-457C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-10 00:00:00</endDate>
-		<startDate>2011-09-10 00:00:00</startDate>
-		<subject>Riverside Veterinary Services Ltd - Ashburton</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>594AC667-A115-4665-95A0-2A7499B3A130</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>8FA10F40-457C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-10 00:00:00</endDate>
-		<startDate>2011-09-10 00:00:00</startDate>
-		<subject>VetLife Ashburton</subject>
-		<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>BA56856F-D841-4E86-82D1-6FFE4A9864A3</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>597FF649-3071-E011-B6D4-444553544200</id>
-		<endDate>2011-09-09 00:00:00</endDate>
-		<startDate>2011-09-09 00:00:00</startDate>
-		<subject>Darra Downs Ltd</subject>
-		<type_id>416A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>BB803EFC-EC0E-4857-A86F-EEC68295AF26</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>1264FDFA-8977-E011-B6D6-001E101FE347</id>
-		<endDate>2011-09-17 00:00:00</endDate>
-		<startDate>2011-09-17 00:00:00</startDate>
-		<subject>PGG Wrightson Fairlie</subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>1D858B98-C5A9-DE11-ABD8-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>DE5FEA76-407C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-21 00:00:00</endDate>
-		<startDate>2011-09-21 00:00:00</startDate>
-		<subject>CRT FarmCentre Ashburton</subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>EC7B8B2D-BC15-DF11-A45E-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>8328A1A8-407C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-23 00:00:00</endDate>
-		<startDate>2011-09-23 00:00:00</startDate>
-		<subject>CRT FarmCentre Timaru</subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>67B8626D-BB15-DF11-A45E-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>39084B74-427C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-15 00:00:00</endDate>
-		<startDate>2011-09-15 00:00:00</startDate>
-		<subject>RD1 - Rakaia</subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>A49FEA81-9DB1-DE11-ABD8-0022FA88BDFA</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>DAD289DE-427C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-23 00:00:00</endDate>
-		<startDate>2011-09-23 00:00:00</startDate>
-		<subject>CRT FarmCentre Temuka</subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>8814AC42-BB15-DF11-A45E-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>881CFBF2-427C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-23 00:00:00</endDate>
-		<startDate>2011-09-23 00:00:00</startDate>
-		<subject>PGG Wrightson Timaru</subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>25868B98-C5A9-DE11-ABD8-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>0587A60E-437C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-16 00:00:00</endDate>
-		<startDate>2011-09-16 00:00:00</startDate>
-		<subject>ATS Ashburton </subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>285980EA-C5A9-DE11-ABD8-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>CC0FCB68-437C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-16 00:00:00</endDate>
-		<startDate>2011-09-16 00:00:00</startDate>
-		<subject>ATS Rakaia</subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>43617DF0-C5A9-DE11-ABD8-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>522E99C8-437C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-22 00:00:00</endDate>
-		<startDate>2011-09-22 00:00:00</startDate>
-		<subject>PGG Wrightson Geraldine</subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>25858B98-C5A9-DE11-ABD8-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>F4B04B5F-447C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-08 00:00:00</endDate>
-		<startDate>2011-09-08 00:00:00</startDate>
-		<subject>PGG Wrightson Geraldine</subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>25858B98-C5A9-DE11-ABD8-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>AF253224-457C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-10 00:00:00</endDate>
-		<startDate>2011-09-10 00:00:00</startDate>
-		<subject>ATS Ashburton </subject>
-		<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>285980EA-C5A9-DE11-ABD8-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>A52E58BB-B36F-E011-B6D4-444553544200</id>
-		<endDate>2011-09-02 00:00:00</endDate>
-		<startDate>2011-09-02 00:00:00</startDate>
-		<subject>Highside Farm</subject>
-		<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>7B4C92E7-F918-437A-859B-F6001F1B8BD8</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>F1BF9C0E-E87A-E011-B6D8-444553544200</id>
-		<endDate>2011-09-21 00:00:00</endDate>
-		<startDate>2011-09-21 00:00:00</startDate>
-		<subject>Highside Farm</subject>
-		<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>7B4C92E7-F918-437A-859B-F6001F1B8BD8</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>596D362D-417C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-15 00:00:00</endDate>
-		<startDate>2011-09-15 00:00:00</startDate>
-		<subject>Ayrdale</subject>
-		<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>DFAE32B1-E73A-DE11-9713-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>BD399845-417C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-15 00:00:00</endDate>
-		<startDate>2011-09-15 00:00:00</startDate>
-		<subject>Cross Brothers Pemberley Farm</subject>
-		<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>52473A18-197E-4568-9A58-D85599ABE5FC</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>9BAB4E62-417C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-15 00:00:00</endDate>
-		<startDate>2011-09-15 00:00:00</startDate>
-		<subject>Glenallan Pastures 1999</subject>
-		<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>B3584F4A-0AE3-DD11-91D0-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>66784981-437C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-16 00:00:00</endDate>
-		<startDate>2011-09-16 00:00:00</startDate>
-		<subject>Bayfields</subject>
-		<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>C52588A8-C6FB-4A27-9040-D014E1A3BAD1</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>0D7ED08A-437C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-16 00:00:00</endDate>
-		<startDate>2011-09-16 00:00:00</startDate>
-		<subject>Quartz Hill</subject>
-		<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>CE950AB5-1CE8-42F4-BBC7-688428D2F98E</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>7193B1B2-437C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-22 00:00:00</endDate>
-		<startDate>2011-09-22 00:00:00</startDate>
-		<subject>Hudson, Kelly</subject>
-		<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>AB959BBA-047B-47F6-BAA6-39933956FF42</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>F78D82D4-437C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-22 00:00:00</endDate>
-		<startDate>2011-09-22 00:00:00</startDate>
-		<subject>Turley Farm</subject>
-		<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>47CC8DAF-F954-49BB-9643-81E7A158BF7E</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>0576F04C-447C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-08 00:00:00</endDate>
-		<startDate>2011-09-08 00:00:00</startDate>
-		<subject>Goldstein Rural Ltd</subject>
-		<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>FF5C73F5-D8CD-4C28-8D8A-96FBD4F347F0</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>E8AFE164-0C75-E011-B6D4-444553544200</id>
-		<endDate>2011-09-13 00:00:00</endDate>
-		<startDate>2011-09-13 00:00:00</startDate>
-		<subject>PGG Wrightson Geraldine</subject>
-		<type_id>406A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>25858B98-C5A9-DE11-ABD8-444553544200</organization_id>
-	</RECORD>
-	<RECORD>
-		<id>7F1BBEBD-407C-E011-B6D8-444553544200</id>
-		<endDate>2011-09-23 00:00:00</endDate>
-		<startDate>2011-09-23 00:00:00</startDate>
-		<subject>PGG Wrightson Temuka</subject>
-		<type_id>406A9983-F59A-DF11-BE2A-005056BA0462</type_id>
-		<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
-		<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
-		<organization_id>1F868B98-C5A9-DE11-ABD8-444553544200</organization_id>
-	</RECORD>
+<RECORD>
+	<id>B0FC40D5-B36F-E011-B6D4-444553544200</id>
+	<endDate>2011-09-02 15:00:00</endDate>
+	<startDate>2011-09-02 14:00:00</startDate>
+	<subject>VetLife Dunsandel</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>AD5BB839-B87C-4361-8C9B-68273A22E6B8</organization_id>
+</RECORD>
+<RECORD>
+	<id>3E71204F-B46F-E011-B6D4-444553544200</id>
+	<endDate>2011-09-02 17:00:00</endDate>
+	<startDate>2011-09-02 16:00:00</startDate>
+	<subject>Riverside Veterinary Services Ltd - Ashburton</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>594AC667-A115-4665-95A0-2A7499B3A130</organization_id>
+</RECORD>
+<RECORD>
+	<id>91398569-B46F-E011-B6D4-444553544200</id>
+	<endDate>2011-09-02 19:00:00</endDate>
+	<startDate>2011-09-02 18:00:00</startDate>
+	<subject>Darfield Veterinary Centre</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>BB1E6748-9057-4B8D-B117-B1935E7B034E</organization_id>
+</RECORD>
+<RECORD>
+	<id>6CBAA23D-0C75-E011-B6D4-444553544200</id>
+	<endDate>2011-09-13 00:00:00</endDate>
+	<startDate>2011-09-13 00:00:00</startDate>
+	<subject>Riverside Veterinary Services Ltd - Ashburton</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>594AC667-A115-4665-95A0-2A7499B3A130</organization_id>
+</RECORD>
+<RECORD>
+	<id>001A8F53-0C75-E011-B6D4-444553544200</id>
+	<endDate>2011-09-13 00:00:00</endDate>
+	<startDate>2011-09-13 00:00:00</startDate>
+	<subject>Riverside Veterinary Services Ltd - Ashburton</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>594AC667-A115-4665-95A0-2A7499B3A130</organization_id>
+</RECORD>
+<RECORD>
+	<id>34314E0E-8A77-E011-B6D6-001E101FE347</id>
+	<endDate>2011-09-17 00:00:00</endDate>
+	<startDate>2011-09-17 00:00:00</startDate>
+	<subject>VetLife Fairlie</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>C1F6B15C-B035-4394-960A-B9E335C388B4</organization_id>
+</RECORD>
+<RECORD>
+	<id>159F0423-8A77-E011-B6D6-001E101FE347</id>
+	<endDate>2011-09-17 00:00:00</endDate>
+	<startDate>2011-09-17 00:00:00</startDate>
+	<subject>VetLife Pleasant Point</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>5C49505B-1CDD-4AD0-A2B5-913F879E3420</organization_id>
+</RECORD>
+<RECORD>
+	<id>0B53A02E-407C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-21 00:00:00</endDate>
+	<startDate>2011-09-21 00:00:00</startDate>
+	<subject>Riverside Veterinary Services Ltd - Ashburton</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>594AC667-A115-4665-95A0-2A7499B3A130</organization_id>
+</RECORD>
+<RECORD>
+	<id>4826C44E-407C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-21 00:00:00</endDate>
+	<startDate>2011-09-21 00:00:00</startDate>
+	<subject>Selwyn Rakaia Vet Services Ltd</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>C07869E1-31C6-4C7E-999F-ED65B70150F0</organization_id>
+</RECORD>
+<RECORD>
+	<id>C532CCE8-407C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-17 00:00:00</endDate>
+	<startDate>2011-09-17 00:00:00</startDate>
+	<subject>VetLife Temuka</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>7382A166-0790-4807-A9FC-9C3A92FC5213</organization_id>
+</RECORD>
+<RECORD>
+	<id>F0622AEC-437C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-22 19:00:00</endDate>
+	<startDate>2011-09-22 18:00:00</startDate>
+	<subject>VetLife Temuka</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>7382A166-0790-4807-A9FC-9C3A92FC5213</organization_id>
+</RECORD>
+<RECORD>
+	<id>638A2F19-447C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-08 00:00:00</endDate>
+	<startDate>2011-09-08 00:00:00</startDate>
+	<subject>Aorangi Vet Services Ltd - Fairlie</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>61CAABCA-A0A4-4B39-8E12-2C0AFA51EC3C</organization_id>
+</RECORD>
+<RECORD>
+	<id>4F04E33B-447C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-08 00:00:00</endDate>
+	<startDate>2011-09-08 00:00:00</startDate>
+	<subject>Aorangi Vet Services Ltd - Geraldine</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>AEC3F399-330F-4971-A9ED-EEDCD43264D3</organization_id>
+</RECORD>
+<RECORD>
+	<id>2B39C980-447C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-09 00:00:00</endDate>
+	<startDate>2011-09-09 00:00:00</startDate>
+	<subject>Paddock Vets</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>ED541901-DFDD-DE11-ADFF-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>EE55B5A9-447C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-09 00:00:00</endDate>
+	<startDate>2011-09-09 00:00:00</startDate>
+	<subject>Darfield Veterinary Centre</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>BB1E6748-9057-4B8D-B117-B1935E7B034E</organization_id>
+</RECORD>
+<RECORD>
+	<id>ED0D7AB6-447C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-09 00:00:00</endDate>
+	<startDate>2011-09-09 00:00:00</startDate>
+	<subject>Canterbury Vets Methven Ltd</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>B38BB2FC-9703-4BB1-8C79-3656346345E8</organization_id>
+</RECORD>
+<RECORD>
+	<id>5F93E1ED-447C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-09 00:00:00</endDate>
+	<startDate>2011-09-09 00:00:00</startDate>
+	<subject>VetLife Dunsandel</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>AD5BB839-B87C-4361-8C9B-68273A22E6B8</organization_id>
+</RECORD>
+<RECORD>
+	<id>32FADE18-457C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-10 00:00:00</endDate>
+	<startDate>2011-09-10 00:00:00</startDate>
+	<subject>Riverside Veterinary Services Ltd - Ashburton</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>594AC667-A115-4665-95A0-2A7499B3A130</organization_id>
+</RECORD>
+<RECORD>
+	<id>8FA10F40-457C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-10 00:00:00</endDate>
+	<startDate>2011-09-10 00:00:00</startDate>
+	<subject>VetLife Ashburton</subject>
+	<type_id>1BD218ED-FAAE-4A6E-AC91-DB0DA1FFBADD</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>BA56856F-D841-4E86-82D1-6FFE4A9864A3</organization_id>
+</RECORD>
+<RECORD>
+	<id>597FF649-3071-E011-B6D4-444553544200</id>
+	<endDate>2011-09-09 00:00:00</endDate>
+	<startDate>2011-09-09 00:00:00</startDate>
+	<subject>Darra Downs Ltd</subject>
+	<type_id>416A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>BB803EFC-EC0E-4857-A86F-EEC68295AF26</organization_id>
+</RECORD>
+<RECORD>
+	<id>1264FDFA-8977-E011-B6D6-001E101FE347</id>
+	<endDate>2011-09-17 00:00:00</endDate>
+	<startDate>2011-09-17 00:00:00</startDate>
+	<subject>PGG Wrightson Fairlie</subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>1D858B98-C5A9-DE11-ABD8-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>DE5FEA76-407C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-21 00:00:00</endDate>
+	<startDate>2011-09-21 00:00:00</startDate>
+	<subject>CRT FarmCentre Ashburton</subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>EC7B8B2D-BC15-DF11-A45E-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>8328A1A8-407C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-23 12:00:00</endDate>
+	<startDate>2011-09-23 11:00:00</startDate>
+	<subject>CRT FarmCentre Timaru</subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>67B8626D-BB15-DF11-A45E-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>39084B74-427C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-15 00:00:00</endDate>
+	<startDate>2011-09-15 00:00:00</startDate>
+	<subject>RD1 - Rakaia</subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>A49FEA81-9DB1-DE11-ABD8-0022FA88BDFA</organization_id>
+</RECORD>
+<RECORD>
+	<id>DAD289DE-427C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-23 15:00:00</endDate>
+	<startDate>2011-09-23 14:00:00</startDate>
+	<subject>CRT FarmCentre Temuka</subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>8814AC42-BB15-DF11-A45E-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>881CFBF2-427C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-23 17:00:00</endDate>
+	<startDate>2011-09-23 16:00:00</startDate>
+	<subject>PGG Wrightson Timaru</subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>25868B98-C5A9-DE11-ABD8-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>0587A60E-437C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-16 00:00:00</endDate>
+	<startDate>2011-09-16 00:00:00</startDate>
+	<subject>ATS Ashburton </subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>285980EA-C5A9-DE11-ABD8-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>CC0FCB68-437C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-16 00:00:00</endDate>
+	<startDate>2011-09-16 00:00:00</startDate>
+	<subject>ATS Rakaia</subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>43617DF0-C5A9-DE11-ABD8-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>522E99C8-437C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-22 16:00:00</endDate>
+	<startDate>2011-09-22 15:00:00</startDate>
+	<subject>PGG Wrightson Geraldine</subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>25858B98-C5A9-DE11-ABD8-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>F4B04B5F-447C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-08 00:00:00</endDate>
+	<startDate>2011-09-08 00:00:00</startDate>
+	<subject>PGG Wrightson Geraldine</subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>25858B98-C5A9-DE11-ABD8-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>AF253224-457C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-10 00:00:00</endDate>
+	<startDate>2011-09-10 00:00:00</startDate>
+	<subject>ATS Ashburton </subject>
+	<type_id>3E6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>285980EA-C5A9-DE11-ABD8-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>A52E58BB-B36F-E011-B6D4-444553544200</id>
+	<endDate>2011-09-02 14:00:00</endDate>
+	<startDate>2011-09-02 13:00:00</startDate>
+	<subject>Highside Farm</subject>
+	<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>22BD5E1F-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>7B4C92E7-F918-437A-859B-F6001F1B8BD8</organization_id>
+</RECORD>
+<RECORD>
+	<id>F1BF9C0E-E87A-E011-B6D8-444553544200</id>
+	<endDate>2011-09-21 00:00:00</endDate>
+	<startDate>2011-09-21 00:00:00</startDate>
+	<subject>Highside Farm</subject>
+	<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>7B4C92E7-F918-437A-859B-F6001F1B8BD8</organization_id>
+</RECORD>
+<RECORD>
+	<id>596D362D-417C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-15 00:00:00</endDate>
+	<startDate>2011-09-15 00:00:00</startDate>
+	<subject>Ayrdale</subject>
+	<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>DFAE32B1-E73A-DE11-9713-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>BD399845-417C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-15 00:00:00</endDate>
+	<startDate>2011-09-15 00:00:00</startDate>
+	<subject>Cross Brothers Pemberley Farm</subject>
+	<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>52473A18-197E-4568-9A58-D85599ABE5FC</organization_id>
+</RECORD>
+<RECORD>
+	<id>9BAB4E62-417C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-15 00:00:00</endDate>
+	<startDate>2011-09-15 00:00:00</startDate>
+	<subject>Glenallan Pastures 1999</subject>
+	<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>B3584F4A-0AE3-DD11-91D0-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>66784981-437C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-16 00:00:00</endDate>
+	<startDate>2011-09-16 00:00:00</startDate>
+	<subject>Bayfields</subject>
+	<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>C52588A8-C6FB-4A27-9040-D014E1A3BAD1</organization_id>
+</RECORD>
+<RECORD>
+	<id>0D7ED08A-437C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-16 00:00:00</endDate>
+	<startDate>2011-09-16 00:00:00</startDate>
+	<subject>Quartz Hill</subject>
+	<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>CE950AB5-1CE8-42F4-BBC7-688428D2F98E</organization_id>
+</RECORD>
+<RECORD>
+	<id>7193B1B2-437C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-22 14:00:00</endDate>
+	<startDate>2011-09-22 13:00:00</startDate>
+	<subject>Hudson, Kelly</subject>
+	<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>AB959BBA-047B-47F6-BAA6-39933956FF42</organization_id>
+</RECORD>
+<RECORD>
+	<id>F78D82D4-437C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-22 17:00:00</endDate>
+	<startDate>2011-09-22 16:00:00</startDate>
+	<subject>Turley Farm</subject>
+	<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>47CC8DAF-F954-49BB-9643-81E7A158BF7E</organization_id>
+</RECORD>
+<RECORD>
+	<id>0576F04C-447C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-08 00:00:00</endDate>
+	<startDate>2011-09-08 00:00:00</startDate>
+	<subject>Goldstein Rural Ltd</subject>
+	<type_id>3F6A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>FF5C73F5-D8CD-4C28-8D8A-96FBD4F347F0</organization_id>
+</RECORD>
+<RECORD>
+	<id>E8AFE164-0C75-E011-B6D4-444553544200</id>
+	<endDate>2011-09-13 00:00:00</endDate>
+	<startDate>2011-09-13 00:00:00</startDate>
+	<subject>PGG Wrightson Geraldine</subject>
+	<type_id>406A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>25858B98-C5A9-DE11-ABD8-444553544200</organization_id>
+</RECORD>
+<RECORD>
+	<id>7F1BBEBD-407C-E011-B6D8-444553544200</id>
+	<endDate>2011-09-23 14:00:00</endDate>
+	<startDate>2011-09-23 13:00:00</startDate>
+	<subject>PGG Wrightson Temuka</subject>
+	<type_id>406A9983-F59A-DF11-BE2A-005056BA0462</type_id>
+	<status_id>40A3B6FF-AA65-E011-9241-00155D01180E</status_id>
+	<purpose_id>66C31387-954F-4732-8BAD-5A7C9E35BD00</purpose_id>
+	<organization_id>1F868B98-C5A9-DE11-ABD8-444553544200</organization_id>
+</RECORD>
 </RECORDS>

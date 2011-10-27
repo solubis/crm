@@ -22,6 +22,7 @@ app.views.Viewport = Ext.extend(Ext.TabPanel, {
         scope: this,
         cardswitch: function(me, newTab, oldTab) {
             app.currentTab = newTab;
+			oldTab.setActiveItem(0);
         }
     },
 

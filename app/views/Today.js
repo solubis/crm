@@ -15,7 +15,7 @@ app.views.TodayTab = Ext.extend(Ext.Panel, {
 
     listeners: {
         activate: function() {
-			console.log('Today ACTIVATE' );
+            app.log('Today ACTIVATE');
             this.updateData(null, true);
         }
     },
@@ -33,7 +33,7 @@ app.views.TodayTab = Ext.extend(Ext.Panel, {
             flex: 2
         });
 
-		this.activitiesList.filterFunction = app.stores.Activity.todayFilter;
+        this.activitiesList.filterFunction = app.stores.Activity.todayFilter;
 
         this.locationMap = new app.views.LocationMap({
             flex: 3
@@ -44,6 +44,30 @@ app.views.TodayTab = Ext.extend(Ext.Panel, {
                 type: 'vbox',
                 align: 'stretch'
             },
+
+            listeners: {
+                scope: this,
+                activate: function() {
+
+                    if (this.locationMap) {
+                        // Map component error - any manipulation in the background ends with broken component
+                        this.todayView.remove(this.locationMap.id);
+                        this.locationMap.destroy();
+                    }
+
+                    this.locationMap = new app.views.LocationMap({
+                        flex: 3
+                    });
+                    this.todayView.add(this.locationMap);
+                    this.todayView.doLayout();
+                    var record = this.activitiesList.getSelectedRecord();
+                    if (record) {
+                        this.locationMap.updateWithRecord(record.get('organization'));
+                    }
+
+                }
+            },
+
             items: [{
                 flex: 4,
                 layout: {
@@ -52,6 +76,7 @@ app.views.TodayTab = Ext.extend(Ext.Panel, {
                 },
                 items: [this.activitiesList, this.activityInfo]
             },
+
             this.locationMap]
         });
 
@@ -65,10 +90,10 @@ app.views.TodayTab = Ext.extend(Ext.Panel, {
     },
 
     updateData: function(record, filter) {
-		
-		console.log('Today updateData with record : ' + record);
 
-		this.activitiesList.updateData(record, filter);
+        app.log('Today updateData with record : ' + record);
+
+        this.activitiesList.updateData(record, filter);
 
         record = this.activitiesList.getSelectedRecord();
 
@@ -78,7 +103,7 @@ app.views.TodayTab = Ext.extend(Ext.Panel, {
 
         if (record) {
             this.activityInfo.updateWithRecord(record);
-			this.locationMap.updateWithRecord(record.get('organization'));
+            this.locationMap.updateWithRecord(record.get('organization'));
         }
     }
 });

@@ -113,8 +113,6 @@ app.stores.createStores = function() {
                 }
             });
 
-			console.log('Today Filter: ' + start + ' - ' + end);
-
 			this.clearFilter(true);
             this.filter(filter);
             this.sort();
@@ -145,8 +143,6 @@ app.stores.createStores = function() {
                 }
             });
 			
-			console.log('This Week Filter: ' + start + ' - ' + end);
-
             this.clearFilter(true);
 			this.filter(filter);
             this.sort();
@@ -175,8 +171,6 @@ app.stores.createStores = function() {
                     return item.get('startDate') >= start && item.get('startDate') < end;
                 }
             });
-
-			console.log('This Month Filter: ' + start + ' - ' + end);
 
 			this.clearFilter(true);
             this.filter(filter);
@@ -238,9 +232,7 @@ app.stores.clearStorage = function() {
 };
 
 app.stores.destroyStores = function() {
-
-    console.log('Destroying Stores');
-
+	
     app.stores.Status.destroy();
     app.stores.Product.destroy();
     app.stores.Comment.destroy();

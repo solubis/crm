@@ -41,7 +41,8 @@ app.views.OrganizationForm = Ext.extend(Ext.form.FormPanel, {
                 handler: function() {
                     Ext.dispatch({
                         controller: app.currentTab.controller,
-                        action: 'showMap'
+                        action: 'showMap',
+						record: this.getRecord()
                     });
                 }
             }]

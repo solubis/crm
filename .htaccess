@@ -1,5 +1,6 @@
 ErrorDocument 404 "Error, but .htaccess works"
 AddType text/cache-manifest .manifest
+Header set Access-Control-Allow-Origin *
 
 <FilesMatch "\.(ico|jpg|jpeg|png|gif|js|css|html|manifest)$">
   ExpiresDefault A2419200

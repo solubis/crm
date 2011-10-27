@@ -1,17 +1,19 @@
 CACHE MANIFEST
-#v60
+#v402
 
-index.html
+http://maps.googleapis.com/maps/api/js?sensor=true
+
 css/main.css
 css/apple.css
 
 lib/sencha-touch.js
 
 app/app.js
-app/utils/Utils.js
+app/controllers/Controller.js
 app/models/Models.js
-app/utils/OfflineStore.js
 app/stores/Stores.js
+app/utils/Utils.js
+app/utils/OfflineStore.js
 app/utils/SelectField.js
 app/utils/DateTimePicker.js
 app/utils/DateTimePickerField.js
@@ -25,11 +27,10 @@ app/views/ActivityForm.js
 app/views/CustomerForm.js
 app/views/OrganizationForm.js
 app/views/OrganizationsList.js
-app/views/Templates.js
 app/views/Today.js
 app/views/Activities.js
 app/views/Organizations.js
-app/controllers/Controller.js
+
 
 db/Activity.xml
 db/ActivityCustomer.xml

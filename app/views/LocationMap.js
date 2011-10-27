@@ -18,11 +18,20 @@ app.views.LocationMap = Ext.extend(Ext.Panel, {
         align: 'stretch'
     },
 
+    listeners: {
+        activate: function() {
+            app.log('LocationMap ACTIVATE');
+            this.initMarkers();
+        }
+    },
+
     initComponent: function() {
+	
+		app.log('Map init');
 
         this.markers = new Ext.util.HashMap();
 
-        this.mapPanel = new Ext.Map({
+        this.map = new Ext.Map({
 
             mapOptions: {
                 zoom: 7,
@@ -41,16 +50,18 @@ app.views.LocationMap = Ext.extend(Ext.Panel, {
 
         this.dockedItems = [{
             xtype: 'toolbar',
-            title: 'Route for Today',
+            title: this.title,
             cls: 'x-list-header'
         }];
 
-        this.items = this.mapPanel;
+        this.items = this.map;
 
         app.views.LocationMap.superclass.initComponent.call(this);
     },
 
     updateWithRecord: function(record) {
+
+        app.log('MAP updateWithRecord: ' + record);
 
         if (!record) return;
 
@@ -76,12 +87,7 @@ app.views.LocationMap = Ext.extend(Ext.Panel, {
         var marker = new google.maps.Marker({
             position: position,
             title: name,
-            map: this.mapPanel.map
-        });
-
-        this.mapPanel.update({
-            latitude: latitude,
-            longitude: longitude
+            map: this.map.map
         });
 
         google.maps.event.addListener(marker, 'click',
@@ -118,6 +124,7 @@ app.views.LocationMap = Ext.extend(Ext.Panel, {
     },
 
     removeAllMarkers: function() {
+
         this.markers.each(function(key, value, length) {
             value.setMap(null);
         });
@@ -125,6 +132,7 @@ app.views.LocationMap = Ext.extend(Ext.Panel, {
     },
 
     checkMarkers: function() {
+
         this.markers.each(function(key, value, length) {
             var hasActivity = false;
             app.stores.Activity.each(function(record) {
@@ -142,16 +150,25 @@ app.views.LocationMap = Ext.extend(Ext.Panel, {
 
     initMarkers: function() {
 
+        app.log('MAP InitMarkers');
+
         this.removeAllMarkers();
 
         app.stores.Activity.each(function(record) {
-
             var organization = record.get('organization');
-
             this.updateWithRecord(organization);
-
         },
         this);
+
+        this.map.update({
+            latitude: -43.9083813,
+            longitude: 171.7485672
+        });
+    },
+
+    renderMap: function() {
+        app.log('MAP renderMap');
+        this.map.renderMap();
     }
 
 });

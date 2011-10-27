@@ -15,7 +15,7 @@ app.views.ActivitiesTab = Ext.extend(Ext.Panel, {
 
     listeners: {
         activate: function() {
-            console.log('ActivitiesTab ACTIVATE');
+            app.log('ActivitiesTab ACTIVATE');
             this.updateData(null, true);
         }
     },
@@ -59,7 +59,7 @@ app.views.ActivitiesTab = Ext.extend(Ext.Panel, {
 
     updateData: function(record, filter) {
 
-        console.log('ActivitiesTab updateData with record : ' + record);
+        app.log('ActivitiesTab updateData with record : ' + record);
 
         this.activitiesList.updateData(record, filter);
 
@@ -72,7 +72,11 @@ app.views.ActivitiesTab = Ext.extend(Ext.Panel, {
         if (record) {
             this.activityInfo.updateWithRecord(record);
         }
-    }
+    },
+
+	closeTab: function(){
+		
+	}
 
 });
 

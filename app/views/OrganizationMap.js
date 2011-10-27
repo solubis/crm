@@ -7,7 +7,7 @@
 
 
 app.views.OrganizationMap = Ext.extend(Ext.Panel, {
-	
+
     iconCls: 'bookmarks',
     cls: 'map-panel',
     height: 300,
@@ -17,19 +17,28 @@ app.views.OrganizationMap = Ext.extend(Ext.Panel, {
         align: 'stretch'
     },
 
+	listeners: {
+        activate: function() {
+            app.log('OrganizationMap ACTIVATE');
+            this.updateData(this.record);
+        }
+    },
+
     initComponent: function() {
 
         this.mapPanel = new Ext.Map({
 
             mapOptions: {
-                zoom: 7,
+                zoom: 15,
                 navigationControlOptions: {
                     style: google.maps.NavigationControlStyle.DEFAULT
                 }
             },
             listeners: {
                 maprender: {
-                    fn: function(){ this.updateWithRecord(this.record)},
+                    fn: function() {
+                       	this.updateData(this.record)
+                    },
                     scope: this
                 }
             }
@@ -46,7 +55,7 @@ app.views.OrganizationMap = Ext.extend(Ext.Panel, {
                     Ext.dispatch({
                         controller: app.currentTab.controller,
                         action: 'hideMap',
-						form: this
+                        form: this
                     });
                 }
             }]
@@ -57,7 +66,9 @@ app.views.OrganizationMap = Ext.extend(Ext.Panel, {
         app.views.OrganizationMap.superclass.initComponent.call(this);
     },
 
-    updateWithRecord: function(record) {
+    updateData: function(record) {
+
+        app.log('OrganizationMap updateData: ' + record);
 
         var latitude = record.get('latitude'),
         longitude = record.get('longitude'),
