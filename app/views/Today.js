@@ -13,7 +13,7 @@ app.views.TodayTab = Ext.extend(Ext.Panel, {
     title: 'Today',
     layout: 'card',
 
-    listeners: {
+    listeners: { 
         activate: function() {
             app.log('Today ACTIVATE');
             this.updateData(null, true);

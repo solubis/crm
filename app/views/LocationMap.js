@@ -114,6 +114,8 @@ app.views.LocationMap = Ext.extend(Ext.Panel, {
 
     activateMarker: function(marker) {
 
+		return; // TODO bouncing markers eat memory
+
         this.markers.each(function(key, value, length) {
             value.setAnimation(null);
         });
