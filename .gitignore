@@ -2,8 +2,6 @@
 *.pyc
 *.pyo
 
-archive
-docs
-"Icon"
-test.html
-test.js
+Icon
+.DS_Store
+.localized
