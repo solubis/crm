@@ -161,13 +161,9 @@ app.controllers.Controller = Ext.extend(Ext.Controller, {
     },
 
     showMap: function(options) {
-
         if (this.view.organizationMap) this.view.organizationMap.destroy();
-
         this.view.organizationMap = new app.views.OrganizationMap();
-
         this.view.organizationMap.record = options.record;
-
         this.showItem(this.view.organizationMap, 'flip', 'left');
     }
 

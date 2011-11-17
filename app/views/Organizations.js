@@ -5,7 +5,7 @@
 *    Copyright 2011 Client and Friends. All rights reserved.
 **/
 
-app.views.OrganizationsTab = Ext.extend(Ext.Panel, {
+app.views.Organizations = Ext.extend(Ext.Panel, {
 	
 	className: 'Organizations',
 	
@@ -29,7 +29,7 @@ app.views.OrganizationsTab = Ext.extend(Ext.Panel, {
 
         this.items = [this.organizationsList];
 
-        app.views.OrganizationsTab.superclass.initComponent.apply(this, arguments);
+        app.views.Organizations.superclass.initComponent.apply(this, arguments);
     },
 
 	updateData: function(record, filter) {
@@ -43,7 +43,7 @@ app.views.OrganizationsTab = Ext.extend(Ext.Panel, {
 	}
 });
 
-Ext.reg('organizationstab', app.views.OrganizationsTab);
+Ext.reg('organizations', app.views.Organizations);
 
 
 

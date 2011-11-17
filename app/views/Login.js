@@ -37,7 +37,7 @@ app.views.login = new Ext.form.FormPanel({
 		text: 'Login',
 		handler: function() {
 			app.stores.initStoresFromXML(function() {
-				app.openViewport();
+				app.openMain();
 			});
 			this.ownerCt.destroy();
 		}

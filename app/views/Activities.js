@@ -5,7 +5,7 @@
 *    Copyright 2011 Client and Friends. All rights reserved.
 **/
 
-app.views.ActivitiesTab = Ext.extend(Ext.Panel, {
+app.views.Activities = Ext.extend(Ext.Panel, {
 
     className: 'Activities',
 
@@ -54,7 +54,7 @@ app.views.ActivitiesTab = Ext.extend(Ext.Panel, {
             this.items = [this.todayView];
         };
 
-        app.views.ActivitiesTab.superclass.initComponent.apply(this, arguments);
+        app.views.Activities.superclass.initComponent.apply(this, arguments);
     },
 
     updateData: function(record, filter) {
@@ -80,6 +80,6 @@ app.views.ActivitiesTab = Ext.extend(Ext.Panel, {
 
 });
 
-Ext.reg('activitiestab', app.views.ActivitiesTab);
+Ext.reg('activities', app.views.Activities);
 
 
